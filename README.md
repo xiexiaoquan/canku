@@ -1,2 +1,1 @@
-#canku
-qwqq
+# canku
